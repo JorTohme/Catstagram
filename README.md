@@ -15,13 +15,6 @@ I'm making this App to test my skills as a fullstack developer.
 
 ## Screenshots
 
-IOS Login Page (WIP) [iPhone 13]
-![IOS](<img src="https://user-images.githubusercontent.com/81455931/200901192-ad4d5010-869c-4a8a-94af-fdd2cf8724c6.PNG" alt="IOS" width="300">)
-
-Android Login Page (WIP) [Samsung Galaxy S8]
-
-![Android](<img src="https://user-images.githubusercontent.com/81455931/200901197-3229670c-7cea-451d-956d-b0db3941e20f.jpg" alt="Android" width="300">)
-
 ## Installation
 
 WIP
